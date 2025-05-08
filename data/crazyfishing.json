@@ -1,0 +1,18 @@
+{
+    "id": 118601851,
+    "name": "Crazy Fishing Challenge",
+    "author": "DomisorusRex",
+    "creators": ["Drayy, DomisorusRex"],
+    "verifier": "DomisorusRex",
+    "verification": "https://www.youtube.com/watch?v=PLyhesUN1h0",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
