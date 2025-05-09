@@ -1,1 +1,18 @@
-
+{
+    "id": 118606774,
+    "name": "Parfait",
+    "author": "AnomalyGMD",
+    "creators": ["AnomalyGMD"],
+    "verifier": "AnomalyGMD",
+    "verification": "https://youtu.be/omM2SSCFj6A",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Mako",
+            "link": "https://youtu.be/omM2SSCFj6A",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
