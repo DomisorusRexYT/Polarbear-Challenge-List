@@ -9,6 +9,12 @@
     "password": "Not Copyable",
     "records": [
         {
+            "user": "",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        }
+        {
             "user": "AnomalyGMD",
             "link": " ",
             "percent": 100,
