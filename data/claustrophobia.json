@@ -1,0 +1,24 @@
+{
+    "id": 118735801,
+    "name": "Claustrophobia",
+    "author": "DomisorusRex",
+    "creators": ["DomisorusRex"],
+    "verifier": "DomisorusRex",
+    "verification": "https://www.youtube.com/clip/Ugkx3xDmLyfbK96EPyzE4gvR--R3dJju2UwZ",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Beggo",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "AnomalyGMD",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
