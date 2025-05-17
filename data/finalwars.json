@@ -8,11 +8,11 @@
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
-        {
-            "user": "",
-            "link": "",
+       {
+            "user": "beggo",
+            "link": "https://youtu.be/XsoR1R6xuOY",
             "percent": 100,
-            "hz": 360
+            "hz": 240
         }
     ]
 }
