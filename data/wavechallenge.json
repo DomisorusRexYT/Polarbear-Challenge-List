@@ -25,6 +25,12 @@
             "link": "https://www.youtube.com/watch?v=SrBPgclhVUQ",
             "percent": 100,
             "hz": 60
+        },
+          {
+            "user": "beggo",
+            "link": "https://youtu.be/XsoR1R6xuOY",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
