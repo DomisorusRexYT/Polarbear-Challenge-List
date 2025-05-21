@@ -3,16 +3,16 @@
     "name": "Luther",
     "author": "Mako",
     "creators": ["Mako"],
-    "verifier": "Beggo",
+    "verifier": "Mako",
     "verification": "https://youtu.be/kb5cC_bfPwY",
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
         {
-            "user": "",
-            "link": "",
+            "user": "DomisorusRex",
+            "link": "https://medal.tv/games/geometry-dash/clips/kkIhoxDka3HKQIvDZ?invite=cr-MSxxR1osMjE4Njc2Nzc1",
             "percent": 100,
-            "hz": 360
+            "hz": 240
         }
     ]
 }
