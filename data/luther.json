@@ -1,1 +1,18 @@
-
+{
+    "id": 119309136,
+    "name": "Luther",
+    "author": "Mako",
+    "creators": ["Mako"],
+    "verifier": "Beggo",
+    "verification": "https://youtu.be/kb5cC_bfPwY",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
