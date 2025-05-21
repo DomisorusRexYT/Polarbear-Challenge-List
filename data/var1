@@ -1,0 +1,18 @@
+{
+    "id": 119251576,
+    "name": "var1",
+    "author": "Void",
+  "creators": ["Void"],
+    "verifier": "Void",
+    "verification": "https://youtu.be/DKQuKY98Fdo",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "drayy",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
