@@ -1,24 +1,12 @@
 {
-    "id": 113626458,
-    "name": "Floop Challenge",
-    "author": "DomisorusRex",
-    "creators": ["DomisorusRex"],
-    "verifier": "DomisorusRex",
-    "verification": "https://youtu.be/QLTZz3QSF3A",
+    "id": 87425029,
+    "name": "Niwa",
+    "author": "Teno",
+    "creators": ["KrazyGFX, Mrgm, peng, Blaze, Teno, Pedro, Arando, BeClan, Titoalper, Asuith, Genoxide"],
+    "verifier": "AnomalyGMD",
+    "verification": "https://www.youtube.com/watch?v=7vMLRyBaO3I",
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
-        {
-            "user": "AnomalyGMD",
-            "link": "",
-            "percent": 100,
-            "hz": 60
-        },
-          {
-            "user": "beggo",
-            "link": "https://youtu.be/XsoR1R6xuOY",
-            "percent": 100,
-            "hz": 240
-        }
     ]
 }
