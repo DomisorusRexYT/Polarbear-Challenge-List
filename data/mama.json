@@ -1,31 +1,12 @@
 {
-    "id": 118746415,
-    "name": "Mama's Boyfriend",
-    "author": "Beggo",
-    "creators": ["Beggo"],
-    "verifier": "Beggo",
-    "verification": "https://www.youtube.com/watch?v=HZICzLFwlPE",
+    "id": 10565740,
+    "name": "Bloodbath",
+    "author": "Riot",
+    "creators": ["weoweoteo, Vermillion, Michigun <3, Evasium, Crack, Asonicmen, Etzer, Havok, Giron, Ggb0y, Riot"],
+    "verifier": "DomisorusRex",
+    "verification": "https://medal.tv/games/geometry-dash/clips/kvIHVe2bS0frShoQT?invite=cr-MSxuQngsMjE4Njc2Nzc1",
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
-        {
-            "user": "AnomalyGMD",
-            "link": "",
-            "percent": 100,
-            "hz": 60
-        },
-        
-        {
-            "user": "Mako",
-            "link": "https://www.youtube.com/watch?v=t06oc_zS7tA",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "DomisorusRex",
-            "link": "",
-            "percent": 100,
-            "hz": 240
-        }
     ]
 }
