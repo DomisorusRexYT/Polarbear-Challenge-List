@@ -1,18 +1,12 @@
 {
-    "id": 118741318,
-    "name": "Azure Divinity",
-    "author": "DomisorusRex",
-    "creators": ["DomisorusRex"],
-    "verifier": "DomisorusRex",
-    "verification": "https://www.youtube.com/watch?v=DWFyuTtGIBs",
+    "id": 72164189,
+    "name": "Lodin da Fish Washer",
+    "author": "Koko43",
+    "creators": ["Koko45"],
+    "verifier": "AnomalyGMD",
+    "verification": "https://www.youtube.com/watch?v=iEYPNsIeIZQ&t=133s",
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
-        {
-            "user": "beggo",
-            "link": "https://youtu.be/JufKKekOJp0",
-            "percent": 100,
-            "hz": 360
-        }
     ]
 }
